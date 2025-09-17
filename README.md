@@ -1,7 +1,7 @@
 # Andrew Hodges
 *Guitar
-*Video Games
-*Reading
++Video Games
+-Reading
 ## Technical Background
 Exeperienced in Python, C, and Linux.
 
